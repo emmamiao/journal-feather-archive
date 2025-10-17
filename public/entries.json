@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Wind on the Charles",
+    "date": "2025-09-28",
+    "body": "Ran along the river. The wind felt sharp but freeing. Thought about resilience and rhythm.",
+    "mood": "Reflective",
+    "archived": false
+  },
+  {
+    "id": 2,
+    "title": "Quiet morning in Adams",
+    "date": "2025-09-29",
+    "body": "Made tea, opened my notebook. Wrote about stillness. The pages felt like old friends.",
+    "mood": "Calm",
+    "archived": true
+  },
+  {
+    "id": 3,
+    "title": "Stat 110 office hours",
+    "date": "2025-10-02",
+    "body": "Talked to Joe about conditional probability. The logic clicked for once.",
+    "mood": "Productive",
+    "archived": false
+  },
+  {
+    "id": 4,
+    "title": "Rain and reading Woolf",
+    "date": "2025-10-04",
+    "body": "Spent the afternoon with Woolf's diaries. Her language feels like walking underwater.",
+    "mood": "Melancholy",
+    "archived": true
+  }
+]
